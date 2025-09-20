@@ -4,5 +4,5 @@ local servers = { "gopls" }
 vim.lsp.enable(servers)
 
 return {
-  servers = servers
+  servers = servers,
 }
